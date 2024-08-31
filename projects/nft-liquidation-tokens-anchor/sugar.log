@@ -1,0 +1,3 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"Abhinandans-Laptop.local","pid":39041,"time":"2024-08-27T11:43:11.955223Z","target":"sugar","line":123,"file":"/Users/abhinandanmishra1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugar-cli-2.6.0/src/main.rs"}
+{"v":0,"name":"sugar","msg":"MissingFileError(\"config.json\")","level":50,"hostname":"Abhinandans-Laptop.local","pid":39041,"time":"2024-08-27T11:43:11.956308Z","target":"sugar_cli::config::parser","line":21,"file":"/Users/abhinandanmishra1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugar-cli-2.6.0/src/config/parser.rs"}
+tes.io-6f17d22bba15001f/sugar-cli-2.6.0/src/cache.rs"}
